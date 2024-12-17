@@ -119,12 +119,15 @@ GitHub: https://github.com/Sruteka
 License 📜
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
+
 ---
 
-### Key Highlights:
-1. **Supervised Learning**: Added details on price prediction using regression models.
-2. **Unsupervised Learning**: Highlighted KMeans clustering and geographic analysis.
-3. **Model Performance**: Included placeholders for evaluation metrics (update with actual values).
-4. **Clear Sections**: Structured into EDA, supervised, and unsupervised workflows.
+### **Key Changes**
+1. **Classification Focus**: Updated the README to reflect a **classification** project instead of regression.  
+2. **Accuracy Score**: Highlighted accuracy as the main evaluation metric.  
+3. **Confusion Matrix**: Added mentions of other evaluation techniques like confusion matrix and classification report.  
 
-Let me know if you need help adding **visualization code** or model details for the project! 🚀
+---
+
+Would you like help adding **code snippets** for model training or evaluating the confusion matrix? Let me know! 😊
+
