@@ -91,5 +91,5 @@ Follow these steps to run the project on your system:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://https://github.com/Sruteka/Rotten_Tomatoes_Movies3/tree/main
+   git clone https://https://github.com/Sruteka/Rotten_Tomatoes_Movies3.git
    cd Rotten_Tomatoes_Movies3
