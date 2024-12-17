@@ -93,3 +93,21 @@ Follow these steps to run the project on your system:
    ```bash
    git clone https://https://github.com/Sruteka/Rotten_Tomatoes_Movies3.git
    cd Rotten_Tomatoes_Movies3
+
+2. **Install required libraries**
+Use pip to install the necessary dependencies:
+
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn
+
+3. **Run the Jupyter Notebook**
+Open the notebook to view the full analysis and predictions:
+
+   ```bash
+   jupyter notebook
+
+4. **Dataset File:**
+Ensure the file Rotten_Tomatoes_Movies3.xls is in the same directory as your notebook.
+
+Conclusion 📝
+This project successfully predicts the audience rating category of movies using classification techniques. The model provides reliable accuracy and insights into movie features such as critic ratings, genres, and runtime, helping to identify patterns in audience preferences.
