@@ -117,4 +117,14 @@ LinkedIn: www.linkedin.com/in/sruteka-pj-a50a14266
 GitHub: https://github.com/Sruteka
 
 License 📜
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
+
+---
+
+### Key Highlights:
+1. **Supervised Learning**: Added details on price prediction using regression models.
+2. **Unsupervised Learning**: Highlighted KMeans clustering and geographic analysis.
+3. **Model Performance**: Included placeholders for evaluation metrics (update with actual values).
+4. **Clear Sections**: Structured into EDA, supervised, and unsupervised workflows.
+
+Let me know if you need help adding **visualization code** or model details for the project! 🚀
