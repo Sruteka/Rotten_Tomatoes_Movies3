@@ -80,11 +80,8 @@ The project follows these key steps:
 The model achieved the following performance:  
 
 - **Model Used**: Random Forest Classifier  
-- **Accuracy Score**: `85%`  
+- **Accuracy Score**: `90%`   
 
-*Note: Replace these metrics with your actual results.*  
-
----
 
 ## How to Run the Project 🚀  
 Follow these steps to run the project on your system:  
